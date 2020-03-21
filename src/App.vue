@@ -31,6 +31,7 @@
 
 
 <script>
+
 </script>
 
 <style lang="scss" scoped>
@@ -39,7 +40,6 @@
 
   overflow-x:hidden;
 }
-
 .v-enter{
 	opacity:0;
 	transform:translateX(100%);
